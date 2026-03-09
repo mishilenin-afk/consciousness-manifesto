@@ -81,7 +81,7 @@ All prior approaches rely on **digital copying**, which inevitably creates the *
 ## 🧬 Related Concepts
 
 ### NeuroFly (2025)
-Prior to this manifesto, the author developed the **NeuroFly** concept — digital simulation of a drosophila brain using FlyWire connectome data, Hebbian learning, sleep cycles for memory consolidation, and predictive coding architecture. This concept preceded the [EON Systems](https://eonsystems.ai) drosophila brain digitization project announced in 2026.
+Prior to this manifesto, the author developed the **NeuroFly** concept — digital simulation of a drosophila brain using FlyWire connectome data, Hebbian learning, sleep cycles for memory consolidation, and predictive coding architecture. This concept preceded the [EON Systems](https://eon.systems/) drosophila brain digitization project announced in 2026.
 
 ---
 
